@@ -2,7 +2,9 @@
 
 3d printed face shields for essential workers.
 
-During 
+- Comfortability 
+- Reusablility
+- Durability
 
 Top piece:
 Chin guard:
