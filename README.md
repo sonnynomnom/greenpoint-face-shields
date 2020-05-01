@@ -13,3 +13,4 @@ Chin guard:
 - Buttonhole elastic (price)
 - Reinforcement labels (price)
 
+For more information, contact @sonnynomnom.
