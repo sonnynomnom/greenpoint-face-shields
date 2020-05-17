@@ -22,16 +22,16 @@ Chin guard:
 
 ## Orders
 
-| Number | Business 
-| --- | --- |
-| GP001 | Bodega |
-| GP002 | Ponyboy |
-| GP003 | Ponyboy |
-| GP004 | Ponyboy |
-| GP005 | Ponyboy |
-| GP006 | Cutloose |
-| GP007 | Cutloose |
-| GP008 | Cutloose |
-| GP009 | Cutloose |
+| Number | Business | Date |
+| --- | --- | --- |
+| GP001 | Bodega | X |
+| GP002 | Ponyboy | X |
+| GP003 | Ponyboy | X |
+| GP004 | Ponyboy | X |
+| GP005 | Ponyboy | X |
+| GP006 | Cutloose | 5/16/2020 |
+| GP007 | Cutloose | 5/16/2020 |
+| GP008 | Cutloose | 5/16/2020 |
+| GP009 | Cutloose | 5/16/2020 |
 
 For more information, contact @sonnynomnom.
