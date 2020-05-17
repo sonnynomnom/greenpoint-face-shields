@@ -29,9 +29,9 @@ Chin guard:
 | GP003 | Ponyboy | X |
 | GP004 | Ponyboy | X |
 | GP005 | Ponyboy | X |
-| GP006 | Cutloose | 5/16/2020 |
-| GP007 | Cutloose | 5/16/2020 |
-| GP008 | Cutloose | 5/16/2020 |
-| GP009 | Cutloose | 5/16/2020 |
+| GP006 | CutLoose | 5/16/2020 |
+| GP007 | CutLoose | 5/16/2020 |
+| GP008 | CutLoose | 5/16/2020 |
+| GP009 | CutLoose | 5/16/2020 |
 
 For more information, contact @sonnynomnom.
