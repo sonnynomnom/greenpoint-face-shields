@@ -27,11 +27,11 @@ Chin guard:
 
 | Number | Business | Date |
 | --- | --- | --- |
-| GP001 | Bodega | X |
-| GP002 | Ponyboy | X |
-| GP003 | Ponyboy | X |
-| GP004 | Ponyboy | X |
-| GP005 | Ponyboy | X |
+| GP001 | Bodega | 4/22/2020 |
+| GP002 | Ponyboy | 4/30/2020 |
+| GP003 | Ponyboy | 4/30/2020 |
+| GP004 | Ponyboy | 4/30/2020 |
+| GP005 | Ponyboy | 4/30/2020 |
 | GP006 | [CutLoose](https://www.instagram.com/cutloosebk/) | 5/16/2020 |
 | GP007 | [CutLoose](https://www.instagram.com/cutloosebk/) | 5/16/2020 |
 | GP008 | [CutLoose](https://www.instagram.com/cutloosebk/) | 5/16/2020 |
