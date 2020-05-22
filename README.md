@@ -26,7 +26,7 @@ Chin guard:
 ## Orders
 
 | Number | Business | Type | Date |
-| --- | --- | --- | --- |
+| --- | :---: | :---: | :---: |
 | GP001 | Bodega | Bodega | 4/22/2020 |
 | GP002 | Ponyboy | Bar | 4/30/2020 |
 | GP003 | Ponyboy | Bar | 4/30/2020 |
