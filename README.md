@@ -33,5 +33,9 @@ Chin guard:
 | GP007 | CutLoose | 5/16/2020 |
 | GP008 | CutLoose | 5/16/2020 |
 | GP009 | CutLoose | 5/16/2020 |
+| GP010 | Glasserie | 5/23/2020 |
+| GP011 | Glasserie | 5/23/2020 |
+| GP012 | Glasserie | 5/23/2020 |
+| GP013 | Glasserie | 5/23/2020 |
 
 For more information, contact @sonnynomnom.
