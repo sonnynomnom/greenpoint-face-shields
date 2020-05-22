@@ -5,9 +5,8 @@
 - Comfortability 
 - Reusablility
 - Durability
-
-- [top.stl](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
-- [bottom.stl](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
+- [`top.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
+- [`bottom.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
 
 ## Materials
 
