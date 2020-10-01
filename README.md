@@ -1,6 +1,8 @@
-# 3D Printed Face Shields
+# 3D Printed Face Shields 😷
 
-3d printed face shields for essential workers using an Enders 3.
+3d printed face shields for essential workers for buinesses in Greenpoint.
+
+using an Enders 3.
 
 - Comfortability 
 - Reusablility
