@@ -40,6 +40,8 @@ Chin guard:
 | GP012 | [Glasserie](https://www.instagram.com/glasserienyc/) | Restaurant | 5/23/2020 |
 | GP013 | [Glasserie](https://www.instagram.com/glasserienyc/) | Restaurant | 5/23/2020 |
 | GP014 | [] | Salone | |
+| GP015 | Friends | Friends | |
+| GP016 | Friends | Friends | |
 
 --- 
 
