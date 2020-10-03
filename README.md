@@ -45,8 +45,8 @@ Chin guard:
 | GP014 | [Ludlow Blunt](https://www.instagram.com/ludlowblunt) | Salon | | 1 |
 | GP015 | Friends | Friends | | 2 |
 | GP016 | Friends | Friends | | 2 |
-| GP017 | St. Mazie | Salone |
-| Eggsday |
+| GP017 | [St. Mazie](https://www.instagram.com/stmazie) | Restaurant | | 1 |
+| GP018 | [Eggdays](https://www.instagram.com/eggdaysny) | Pop-up | | 2 |
 
 --- 
 
