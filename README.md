@@ -1,6 +1,6 @@
 # Greenpoint Face Shields 😷
 
-> Free face shields for hospitality workers and small buinesses in Greenpoint (Brooklyn, NY).
+> FREE (!) face shields for hospitality workers and small buinesses in Greenpoint (Brooklyn, NY).
 3D printed at home. Medically approved. DM @sonnynomnom for delivery.
 
 using an Enders 3.
