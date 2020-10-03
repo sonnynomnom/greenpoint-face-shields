@@ -44,7 +44,8 @@ Chin guard:
 | GP014 | [] | Salone | | 1 |
 | GP015 | Friends | Friends | | 2 |
 | GP016 | Friends | Friends | | 2 |
-
+| GP017 | St. Mazie | Salone |
+| Eggsday |
 --- 
 
 For more information, contact [@sonnynomnom](https://www.instagram.com/sonnynomnom).
