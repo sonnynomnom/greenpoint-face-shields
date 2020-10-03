@@ -1,6 +1,6 @@
-# 3D Printed Face Shields 😷
+# Greenpoint Face Shields 😷
 
-3d printed face shields for essential workers for buinesses in Greenpoint.
+3d printed face shields for essential workers for buinesses in Greenpoint (Brooklyn, NY).
 
 using an Enders 3.
 
