@@ -1,6 +1,7 @@
 # Greenpoint Face Shields 😷
 
-3d printed face shields for essential workers for buinesses in Greenpoint (Brooklyn, NY).
+Free face shields for hospitality workers and small buinesses in Greenpoint (Brooklyn, NY).
+3D printed at home. Medically approved. DM @sonnynomnom for delivery.
 
 using an Enders 3.
 
