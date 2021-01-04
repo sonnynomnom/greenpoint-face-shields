@@ -42,3 +42,5 @@ The sheets are 3-hole punched and the edges are needle filed.
 --- 
 
 For more information, contact [@sonnynomnom](https://www.twitter.com/sonnynomnom).
+
+Made with <3 in Brooklyn, NY.
