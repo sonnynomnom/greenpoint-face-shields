@@ -10,9 +10,11 @@ Printed using an Enders 3. Tested out a bunch of different printouts and materia
 
 - **Top Piece:** [`top.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
 - **Chin Guard:** [`bottom.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
-- **Lexan Sheet:** Polycarbonate 1/32", Clear (3-hole punched and needle filed)
+- **Lexan Sheet:** Polycarbonate 1/32", Clear (3-hole punched)
 - **Reinforcement Labels:** Clear
 - **Buttonhole Elastic:** Brown
+
+Edges are needle filed.
 
 ## Orders
 
