@@ -47,7 +47,7 @@ Chin guard:
 | GP011 | [Glasserie](https://www.instagram.com/glasserienyc) | Restaurant | 5/23/2020 | 4 | 
 | GP012 | [Glasserie](https://www.instagram.com/glasserienyc) | Restaurant | 5/23/2020 | 4 |
 | GP013 | [Glasserie](https://www.instagram.com/glasserienyc) | Restaurant | 5/23/2020 | 4 |
-| GP014 | [Ludlow Blunt](https://www.instagram.com/ludlowblunt) | Salon | | 1 |
+| GP014 | [Ludlow Blunt](https://www.instagram.com/ludlowblunt) | Salon | 6/22/2020 | 1 |
 | GP015 | Friends | Friends | | 2 |
 | GP016 | Friends | Friends | | 2 |
 | GP017 | [St. Mazie](https://www.instagram.com/stmazie) | Restaurant | | 1 |
