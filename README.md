@@ -4,23 +4,18 @@ Medically approved 3D printed face shields for hospitality workers and small bui
 
 100% free. Up to 5 shields per order. Message [@sonnynomnom](https://www.twitter.com/sonnynomnom) for a drop-off.
 
-## Files
+## Material
 
-Tested a bunch of different STL files and materials but ended up on the above for maximum comfortability, durability, and reusablility.
+Printed using an Enders 3:
 
 - **Top piece:** [`top.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
 - **Chin guard:** [`bottom.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
 
-Printed using an Enders 3.
+Tested a bunch of different prints and materials but ended up on the following for maximum comfortability, durability, and reusablility:
 
-- Lexan Sheet (price)
-- Buttonhole elastic (price)
-- Reinforcement labels (price)
-
-## Tools
-
-- Three hole punch
-- Needle filer
+- Lexan glass sheet (3-hole punched and needle filed)
+- Buttonhole elastic
+- Reinforcement labels
 
 ## Orders
 
