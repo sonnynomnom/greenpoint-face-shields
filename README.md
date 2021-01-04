@@ -6,18 +6,12 @@ Medically approved 3D printed face shields for hospitality workers and small bui
 
 ## Files
 
-Printed using an Enders 3.
+Tested a bunch of different STL files and materials but ended up on the above for maximum comfortability, durability, and reusablility.
 
 - **Top piece:** [`top.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
 - **Chin guard:** [`bottom.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
 
-Tested a bunch of different STL files but ended up on the above for:
-
-- Comfortability 
-- Reusablility
-- Durability
-
-## Materials
+Printed using an Enders 3.
 
 - Lexan Sheet (price)
 - Buttonhole elastic (price)
