@@ -1,4 +1,4 @@
-# Greenpoint Home-Made Face Shields 😷
+# Greenpoint DIY Face Shields 😷
 
 Medically approved 3D printed face shields for hospitality workers and small businesses in Greenpoint, Brooklyn.
 
