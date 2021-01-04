@@ -8,8 +8,8 @@ Contact [@sonnynomnom](https://www.twitter.com/sonnynomnom) for a drop-off. Up t
 
 Printed using an Enders 3.
 
-- [`top.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
-- [`bottom.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
+- Top piece: [`top.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
+- Chin guard: [`bottom.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
 
 Tested a bunch of different STL files but ended up on the above for:
 
@@ -18,9 +18,6 @@ Tested a bunch of different STL files but ended up on the above for:
 - Durability
 
 ## Materials
-
-Top piece:
-Chin guard:
 
 - Lexan Sheet (price)
 - Buttonhole elastic (price)
