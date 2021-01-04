@@ -8,8 +8,8 @@ Medically approved 3D printed face shields for hospitality workers and small bui
 
 Printed using an Enders 3:
 
-- **Top piece:** [`top.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
-- **Chin guard:** [`bottom.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
+- **Top Piece:** [`top.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
+- **Chin Guard:** [`bottom.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
 
 Tested a bunch of different prints and materials but ended up on the following for maximum comfortability and durability:
 
