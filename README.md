@@ -3,7 +3,7 @@
 #### Free face shields for hospitality workers and neighborhood buinesses in Greenpoint (Brooklyn, NY).
 #### 3D printed at home and medically approved.
 
-Contact [@sonnynomnom](https://www.instagram.com/sonnynomnom) for contactless drop-off. 5 maximum per request.
+Contact [@sonnynomnom](https://www.twitter.com/sonnynomnom) for contactless drop-off. 5 maximum per request.
 
 using an Enders 3.
 
@@ -52,4 +52,4 @@ Chin guard:
 
 --- 
 
-For more information, contact [@sonnynomnom](https://www.instagram.com/sonnynomnom).
+For more information, contact [@sonnynomnom](https://www.twitter.com/sonnynomnom).
