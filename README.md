@@ -31,7 +31,7 @@ Chin guard:
 
 | Number | Business | Type | Delivered | Quantity | 
 | --- | :---: | :---: | :---: | :---: |
-| GP001 | Bodega | Bodega 🛒 | 4/22/2020 | 1 | 
+| GP001 | Super Deli Market | Bodega | 4/22/2020 | 1 | 
 | GP002 | [Ponyboy](https://www.instagram.com/ponyboyny) | Bar | 4/30/2020 | 4 | 
 | GP003 | [Ponyboy](https://www.instagram.com/ponyboyny) | Bar | 4/30/2020 | 4 | 
 | GP004 | [Ponyboy](https://www.instagram.com/ponyboyny)| Bar | 4/30/2020 | 4 |
