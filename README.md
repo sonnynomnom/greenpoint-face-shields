@@ -11,7 +11,7 @@ Printed using an Enders 3:
 - **Top piece:** [`top.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
 - **Chin guard:** [`bottom.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
 
-Tested a bunch of different prints and materials but ended up on the following for maximum comfortability, durability, and reusablility:
+Tested a bunch of different prints and materials but ended up on the following for maximum comfortability and durability:
 
 - Lexan Sheet, Polycarbonate 1/32", Clear (3-hole punched and needle filed)
 - Reinforcement Labels, Clear
