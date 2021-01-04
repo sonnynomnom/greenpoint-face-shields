@@ -4,7 +4,7 @@ Medically approved 3D printed face shields for hospitality workers and small bus
 
 100% free and up to 5 shields per order. Message [@sonnynomnom](https://www.twitter.com/sonnynomnom) to schedule for a drop-off.
 
-## Material
+## Material Used
 
 Printed using Enders 3. Tested various prints and landed on the following for maximum comfortability and durability:
 
