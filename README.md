@@ -13,9 +13,10 @@ Printed using an Enders 3:
 
 Tested a bunch of different prints and materials but ended up on the following for maximum comfortability, durability, and reusablility:
 
-- Lexan glass sheet (3-hole punched and needle filed)
+- [Lexan Sheet, Polycarbonate 1/32" Thick](https://www.amazon.com/gp/product/B004S7Z36W/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1) (3-hole punched and needle filed)
 - Buttonhole elastic
 - Reinforcement labels
+
 
 ## Orders
 
