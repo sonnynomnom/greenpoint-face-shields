@@ -18,7 +18,7 @@ Edges are needle filed.
 
 ## Orders
 
-| Number | Business | Type | Delivered | Quantity | 
+| Number | Name | Type | Delivered | Quantity | 
 | --- | :---: | :---: | :---: | :---: |
 | GP001 | Super Deli Market | Bodega | 4/22/2020 | 1 | 
 | GP002 | [Ponyboy](https://www.instagram.com/ponyboyny) | Bar | 4/30/2020 | 4 | 
