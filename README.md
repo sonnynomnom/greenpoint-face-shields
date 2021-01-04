@@ -1,4 +1,4 @@
-# Greenpoint DIY Face Shields 😷
+# Greenpoint Face Shields 😷
 
 Medically approved 3D printed face shields for hospitality workers and small businesses in Greenpoint, Brooklyn.
 
@@ -10,11 +10,11 @@ Printed using Enders 3. Tested various prints and landed on the following for ma
 
 - **Top Piece:** [`top.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
 - **Chin Guard:** [`bottom.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
-- **Lexan Sheet:** Polycarbonate 1/32", Clear (3-hole punched)
+- **Lexan Sheet:** Polycarbonate 1/32", Clear
 - **Reinforcement Labels:** Clear
 - **Buttonhole Elastic:** Brown
 
-Edges are needle filed.
+The sheets are 3-hole punched and the edges are needle filed.
 
 ## Orders
 
