@@ -3,13 +3,16 @@
 #### Free face shields for hospitality workers and neighborhood buinesses in Greenpoint (Brooklyn, NY).
 #### 3D printed at home and medically approved.
 
-Contact [@sonnynomnom](https://www.twitter.com/sonnynomnom) for contactless drop-off. 5 maximum per request.
+Contact [@sonnynomnom](https://www.twitter.com/sonnynomnom) for a drop-off. Up to 5 shields per order.
 
 using an Enders 3.
 
 - Comfortability 
 - Reusablility
 - Durability
+
+## Files
+
 - [`top.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
 - [`bottom.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
 
