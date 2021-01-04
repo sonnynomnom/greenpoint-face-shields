@@ -13,10 +13,9 @@ Printed using an Enders 3:
 
 Tested a bunch of different prints and materials but ended up on the following for maximum comfortability, durability, and reusablility:
 
-- Lexan Sheet, Polycarbonate 1/32" (3-hole punched and needle filed)
-- Buttonhole elastic
-- Reinforcement labels
-
+- Lexan Sheet, Polycarbonate 1/32", Clear (3-hole punched and needle filed)
+- Reinforcement Labels, Clear
+- Buttonhole Elastic, Brown
 
 ## Orders
 
