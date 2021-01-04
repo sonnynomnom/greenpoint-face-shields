@@ -1,6 +1,6 @@
 # Greenpoint Face Shields 😷
 
-Medically approved 3D printed face shields for hospitality workers and small businesses in Greenpoint, Brooklyn.
+Medically approved 3D printed face shields for hospitality workers and small businesses in Greenpoint.
 
 100% free and up to 5 shields per order. Message [@sonnynomnom](https://www.twitter.com/sonnynomnom) to schedule for a drop-off.
 
@@ -41,6 +41,4 @@ The sheets are 3-hole punched and the edges are needle filed.
 
 --- 
 
-For more information, contact [@sonnynomnom](https://www.twitter.com/sonnynomnom).
-
-Made with <3 in Brooklyn, NY.
+Made with 💘 in Brooklyn, NY.
