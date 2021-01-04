@@ -48,10 +48,10 @@ Chin guard:
 | GP012 | [Glasserie](https://www.instagram.com/glasserienyc) | Restaurant | 5/23/2020 | 4 |
 | GP013 | [Glasserie](https://www.instagram.com/glasserienyc) | Restaurant | 5/23/2020 | 4 |
 | GP014 | [Ludlow Blunt](https://www.instagram.com/ludlowblunt) | Salon | 6/22/2020 | 1 |
-| GP015 | Friends | Friends | | 2 |
-| GP016 | Friends | Friends | | 2 |
-| GP017 | [St. Mazie](https://www.instagram.com/stmazie) | Restaurant | | 1 |
-| GP018 | [Eggdays](https://www.instagram.com/eggdaysny) | Pop-up | | 2 |
+| GP015 | Friends | Friends | 6/25/2020 | 2 |
+| GP016 | Friends | Friends | 6/25/2020 | 2 |
+| GP017 | [St. Mazie](https://www.instagram.com/stmazie) | Restaurant | TBD | 1 |
+| GP018 | [Eggdays](https://www.instagram.com/eggdaysny) | Pop-up | TBD | 2 |
 
 --- 
 
