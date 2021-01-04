@@ -51,7 +51,7 @@ Chin guard:
 | GP015 | Friends | Friends | 6/25/2020 | 2 |
 | GP016 | Friends | Friends | 6/25/2020 | 2 |
 | GP017 | [St. Mazie](https://www.instagram.com/stmazie) | Restaurant | TBD | 1 |
-| GP018 | [Eggdays](https://www.instagram.com/eggdaysny) | Pop-up | TBD | 2 |
+| GP018 | [Eggdays](https://www.instagram.com/eggdaysny) | Restaurant | TBD | 2 |
 
 --- 
 
