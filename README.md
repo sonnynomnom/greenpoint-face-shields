@@ -2,14 +2,14 @@
 
 Medically approved 3D printed face shields for hospitality workers and small buinesses in Greenpoint, Brooklyn.
 
-100% free. Message [@sonnynomnom](https://www.twitter.com/sonnynomnom) for a drop-off. Up to 5 shields per order.
+100% free. Message [@sonnynomnom](https://www.twitter.com/sonnynomnom) for a drop-off. (Up to 5 shields per order)
 
 ## Files
 
 Printed using an Enders 3.
 
-- Top piece: [`top.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
-- Chin guard: [`bottom.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
+- **Top piece:** [`top.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
+- **Chin guard:** [`bottom.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
 
 Tested a bunch of different STL files but ended up on the above for:
 
