@@ -39,6 +39,4 @@ The sheets are 3-hole punched and the edges are needle filed.
 | GP017 | [St. Mazie](https://www.instagram.com/stmazie) | Restaurant | TBD | 1 |
 | GP018 | [Eggdays](https://www.instagram.com/eggdaysny) | Restaurant | TBD | 2 |
 
---- 
-
 Made with 💖 in Brooklyn, NY.
