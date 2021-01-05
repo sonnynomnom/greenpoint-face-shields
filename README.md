@@ -16,8 +16,7 @@ Printed using Enders 3. Tested various prints and landed on the following for ma
 
 The sheets are 3-hole punched and the edges are needle filed.
 
-<script src="https://embed.github.com/view/3d/sonnynomnom/greenpoint-face-shields/blob/master/top.stl"></script>
-
+![asdf](https://embed.github.com/view/3d/sonnynomnom/greenpoint-face-shields/blob/master/top.stl)
 
 ## Orders
 
