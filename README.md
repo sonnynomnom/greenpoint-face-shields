@@ -8,8 +8,8 @@ Medically approved 3D printed face shields for hospitality workers and small bus
 
 Printed using Enders 3. Tested various prints and landed on the following for maximum comfortability and durability:
 
-- **Top Piece:** [**`top.stl`**](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
-- **Chin Guard:** [**`bottom.stl`**](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
+- **Top Piece:** [`top.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/top.stl)
+- **Chin Guard:** [`bottom.stl`](https://github.com/sonnynomnom/diy-face-shields/blob/master/bottom.stl)
 - **Lexan Sheet:** Polycarbonate 1/32", Clear
 - **Reinforcement Labels:** Clear
 - **Buttonhole Elastic:** Brown
