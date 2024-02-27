@@ -53,4 +53,14 @@ The sheets are 3-hole punched and the edges are needle filed.
 <img src="https://raw.githubusercontent.com/sonnynomnom/greenpoint-face-shields/master/pics/ponyboy.jpg" alt="Girl in a jacket" height="300">
 <img src="https://raw.githubusercontent.com/sonnynomnom/greenpoint-face-shields/master/pics/greenpoint-glass.jpg" alt="Girl in a jacket" height="300">
 
+<style>
+  .img {
+    display: inline-block;
+  }
+  img.mobile-image {
+	width: 49%;
+    display: inline-block;
+  }
+</style>
+
 Made with 💖 in Brooklyn, NY.
