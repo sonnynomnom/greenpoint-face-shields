@@ -36,9 +36,9 @@ The sheets are 3-hole punched and the edges are needle filed.
 | GP014 | [Ludlow Blunt](https://www.instagram.com/ludlowblunt) | Salon | 6/22/2020 | 1 |
 | GP015 | Friends | N/A | 6/25/2020 | 2 |
 | GP016 | Friends | N/A | 6/25/2020 | 2 |
-| GP017 | [St. Mazie](https://www.instagram.com/stmazie) | Restaurant | TBD | 1 |
-| GP018 | [Eggdays](https://www.instagram.com/eggdaysny) | Restaurant | TBD | 2 |
-| GP019 | [Eggdays](https://www.instagram.com/eggdaysny) | Restaurant | TBD | 4 |
-| GP020 | Coworkers | N/A | TBD | 4 |
+| GP017 | [St. Mazie](https://www.instagram.com/stmazie) | Restaurant | 6/29/2020 | 1 |
+| GP018 | [Eggdays](https://www.instagram.com/eggdaysny) | Restaurant | 6/29/2020 | 2 |
+| GP019 | [Eggdays](https://www.instagram.com/eggdaysny) | Restaurant | 6/29/2020 | 4 |
+| GP020 | Coworkers | N/A | 6/30/2020 | 4 |
 
 Made with 💖 in Brooklyn, NY.
