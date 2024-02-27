@@ -1,6 +1,6 @@
 # Greenpoint Face Shields (Covid)
 
-Medically approved 3D printed face shields for hospitality workers & small businesses in Greenpoint, Brooklyn. 😷
+Medically approved 3D printed face shields for hospitality workers & small businesses in Greenpoint, BK. 😷
 
 100% free and up to 5 shields per order. Message [@sonnynomnom](https://www.twitter.com/sonnynomnom) to schedule for a drop-off.
 
