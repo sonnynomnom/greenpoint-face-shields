@@ -41,8 +41,8 @@ The sheets are 3-hole punched and the edges are needle filed.
 | GP019 | [Eggdays](https://www.instagram.com/eggdaysny) | Restaurant | 6/29/2020 | 4 |
 | GP020 | Coworkers | N/A | 6/30/2020 | 4 |
 
-<img src="https://raw.githubusercontent.com/sonnynomnom/greenpoint-face-shields/master/pics/bodega.jpg" alt="Bodega" height="600">
-<img src="https://raw.githubusercontent.com/sonnynomnom/greenpoint-face-shields/master/pics/cutloose.jpg" alt="Girl in a jacket" height="600">
+<img src="https://raw.githubusercontent.com/sonnynomnom/greenpoint-face-shields/master/pics/bodega.jpg" alt="Bodega" height="500">
+<img src="https://raw.githubusercontent.com/sonnynomnom/greenpoint-face-shields/master/pics/cutloose.jpg" alt="Girl in a jacket" height="500">
 
 
 
